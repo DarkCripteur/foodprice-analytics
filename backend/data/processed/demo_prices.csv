@@ -1,0 +1,1621 @@
+date,product,region,market,price,unit,currency,source,data_type
+2026-07-01,Riz local,Dakar,Marché de démonstration Dakar,425.33,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Riz local,Dakar,Marché de démonstration Dakar,415.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Riz local,Dakar,Marché de démonstration Dakar,423.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Riz local,Dakar,Marché de démonstration Dakar,424.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Riz local,Dakar,Marché de démonstration Dakar,436.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Riz local,Dakar,Marché de démonstration Dakar,437.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Riz local,Dakar,Marché de démonstration Dakar,444.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Riz local,Dakar,Marché de démonstration Dakar,430.02,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Riz local,Dakar,Marché de démonstration Dakar,438.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Riz local,Dakar,Marché de démonstration Dakar,432.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Riz local,Dakar,Marché de démonstration Dakar,437.11,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Riz local,Dakar,Marché de démonstration Dakar,443.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Riz local,Dakar,Marché de démonstration Dakar,435.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Riz local,Dakar,Marché de démonstration Dakar,439.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Riz local,Dakar,Marché de démonstration Dakar,448.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Riz local,Dakar,Marché de démonstration Dakar,446.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Riz local,Dakar,Marché de démonstration Dakar,440.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Riz local,Dakar,Marché de démonstration Dakar,447.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Riz local,Dakar,Marché de démonstration Dakar,450.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Riz local,Dakar,Marché de démonstration Dakar,434.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Riz local,Dakar,Marché de démonstration Dakar,449.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Riz local,Dakar,Marché de démonstration Dakar,445.96,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Riz local,Dakar,Marché de démonstration Dakar,437.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Riz local,Dakar,Marché de démonstration Dakar,432.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Riz local,Dakar,Marché de démonstration Dakar,446.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Riz local,Dakar,Marché de démonstration Dakar,432.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Riz local,Dakar,Marché de démonstration Dakar,426.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Riz local,Dakar,Marché de démonstration Dakar,424.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Riz local,Dakar,Marché de démonstration Dakar,437.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Riz local,Dakar,Marché de démonstration Dakar,431.15,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Riz local,Dakar,Marché de démonstration Dakar,433.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Riz local,Dakar,Marché de démonstration Dakar,430.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Riz local,Dakar,Marché de démonstration Dakar,424.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Riz local,Dakar,Marché de démonstration Dakar,431.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Riz local,Dakar,Marché de démonstration Dakar,418.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Riz local,Dakar,Marché de démonstration Dakar,420.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Riz local,Dakar,Marché de démonstration Dakar,425.02,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Riz local,Dakar,Marché de démonstration Dakar,419.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Riz local,Dakar,Marché de démonstration Dakar,423.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Riz local,Dakar,Marché de démonstration Dakar,417.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Riz local,Dakar,Marché de démonstration Dakar,419.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Riz local,Dakar,Marché de démonstration Dakar,406.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Riz local,Dakar,Marché de démonstration Dakar,409.75,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Riz local,Dakar,Marché de démonstration Dakar,411.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Riz local,Dakar,Marché de démonstration Dakar,407.3,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Riz local,Dakar,Marché de démonstration Dakar,410.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Riz local,Dakar,Marché de démonstration Dakar,409.02,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Riz local,Dakar,Marché de démonstration Dakar,413.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Riz local,Dakar,Marché de démonstration Dakar,421.71,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Riz local,Dakar,Marché de démonstration Dakar,417.53,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Riz local,Dakar,Marché de démonstration Dakar,419.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Riz local,Dakar,Marché de démonstration Dakar,417.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Riz local,Dakar,Marché de démonstration Dakar,420.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Riz local,Dakar,Marché de démonstration Dakar,435.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Riz local,Dakar,Marché de démonstration Dakar,430.97,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Riz local,Dakar,Marché de démonstration Dakar,431.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Riz local,Dakar,Marché de démonstration Dakar,424.89,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Riz local,Dakar,Marché de démonstration Dakar,437.77,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Riz local,Dakar,Marché de démonstration Dakar,428.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Riz local,Dakar,Marché de démonstration Dakar,434.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Riz local,Dakar,Marché de démonstration Dakar,447.77,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Riz local,Dakar,Marché de démonstration Dakar,442.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Riz local,Dakar,Marché de démonstration Dakar,441.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Riz local,Dakar,Marché de démonstration Dakar,445.47,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Riz local,Dakar,Marché de démonstration Dakar,449.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Riz local,Dakar,Marché de démonstration Dakar,449.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Riz local,Dakar,Marché de démonstration Dakar,438.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Riz local,Dakar,Marché de démonstration Dakar,435.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Riz local,Dakar,Marché de démonstration Dakar,440.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Riz local,Dakar,Marché de démonstration Dakar,439.99,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Riz local,Dakar,Marché de démonstration Dakar,438.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Riz local,Dakar,Marché de démonstration Dakar,452.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Riz local,Dakar,Marché de démonstration Dakar,450.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Riz local,Dakar,Marché de démonstration Dakar,438.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Riz local,Dakar,Marché de démonstration Dakar,444.33,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Riz local,Dakar,Marché de démonstration Dakar,437.85,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Riz local,Dakar,Marché de démonstration Dakar,446.77,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Riz local,Dakar,Marché de démonstration Dakar,436.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Riz local,Dakar,Marché de démonstration Dakar,430.4,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Riz local,Dakar,Marché de démonstration Dakar,428.15,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Riz local,Dakar,Marché de démonstration Dakar,432.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Riz local,Dakar,Marché de démonstration Dakar,424.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Riz local,Dakar,Marché de démonstration Dakar,428.75,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Riz local,Dakar,Marché de démonstration Dakar,432.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Riz local,Dakar,Marché de démonstration Dakar,420.75,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Riz local,Dakar,Marché de démonstration Dakar,415.02,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Riz local,Dakar,Marché de démonstration Dakar,428.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Riz local,Dakar,Marché de démonstration Dakar,416.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Riz local,Dakar,Marché de démonstration Dakar,406.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Riz local,Dakar,Marché de démonstration Dakar,403.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Riz local,Thiès,Marché de démonstration Thiès,434.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Riz local,Thiès,Marché de démonstration Thiès,446.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Riz local,Thiès,Marché de démonstration Thiès,452.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Riz local,Thiès,Marché de démonstration Thiès,447.02,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Riz local,Thiès,Marché de démonstration Thiès,441.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Riz local,Thiès,Marché de démonstration Thiès,450.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Riz local,Thiès,Marché de démonstration Thiès,464.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Riz local,Thiès,Marché de démonstration Thiès,456.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Riz local,Thiès,Marché de démonstration Thiès,466.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Riz local,Thiès,Marché de démonstration Thiès,465.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Riz local,Thiès,Marché de démonstration Thiès,449.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Riz local,Thiès,Marché de démonstration Thiès,464.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Riz local,Thiès,Marché de démonstration Thiès,464.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Riz local,Thiès,Marché de démonstration Thiès,461.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Riz local,Thiès,Marché de démonstration Thiès,455.96,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Riz local,Thiès,Marché de démonstration Thiès,463.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Riz local,Thiès,Marché de démonstration Thiès,452.11,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Riz local,Thiès,Marché de démonstration Thiès,457.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Riz local,Thiès,Marché de démonstration Thiès,457.29,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Riz local,Thiès,Marché de démonstration Thiès,466.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Riz local,Thiès,Marché de démonstration Thiès,463.24,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Riz local,Thiès,Marché de démonstration Thiès,449.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Riz local,Thiès,Marché de démonstration Thiès,452.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Riz local,Thiès,Marché de démonstration Thiès,444.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Riz local,Thiès,Marché de démonstration Thiès,456.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Riz local,Thiès,Marché de démonstration Thiès,454.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Riz local,Thiès,Marché de démonstration Thiès,440.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Riz local,Thiès,Marché de démonstration Thiès,445.2,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Riz local,Thiès,Marché de démonstration Thiès,442.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Riz local,Thiès,Marché de démonstration Thiès,431.11,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Riz local,Thiès,Marché de démonstration Thiès,441.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Riz local,Thiès,Marché de démonstration Thiès,434.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Riz local,Thiès,Marché de démonstration Thiès,437.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Riz local,Thiès,Marché de démonstration Thiès,430.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Riz local,Thiès,Marché de démonstration Thiès,418.09,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Riz local,Thiès,Marché de démonstration Thiès,422.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Riz local,Thiès,Marché de démonstration Thiès,415.32,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Riz local,Thiès,Marché de démonstration Thiès,432.2,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Riz local,Thiès,Marché de démonstration Thiès,430.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Riz local,Thiès,Marché de démonstration Thiès,428.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Riz local,Thiès,Marché de démonstration Thiès,416.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Riz local,Thiès,Marché de démonstration Thiès,411.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Riz local,Thiès,Marché de démonstration Thiès,427.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Riz local,Thiès,Marché de démonstration Thiès,428.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Riz local,Thiès,Marché de démonstration Thiès,411.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Riz local,Thiès,Marché de démonstration Thiès,420.21,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Riz local,Thiès,Marché de démonstration Thiès,412.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Riz local,Thiès,Marché de démonstration Thiès,427.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Riz local,Thiès,Marché de démonstration Thiès,428.09,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Riz local,Thiès,Marché de démonstration Thiès,416.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Riz local,Thiès,Marché de démonstration Thiès,424.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Riz local,Thiès,Marché de démonstration Thiès,427.57,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Riz local,Thiès,Marché de démonstration Thiès,423.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Riz local,Thiès,Marché de démonstration Thiès,437.15,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Riz local,Thiès,Marché de démonstration Thiès,429.85,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Riz local,Thiès,Marché de démonstration Thiès,427.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Riz local,Thiès,Marché de démonstration Thiès,435.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Riz local,Thiès,Marché de démonstration Thiès,441.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Riz local,Thiès,Marché de démonstration Thiès,432.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Riz local,Thiès,Marché de démonstration Thiès,436.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Riz local,Thiès,Marché de démonstration Thiès,451.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Riz local,Thiès,Marché de démonstration Thiès,446.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Riz local,Thiès,Marché de démonstration Thiès,443.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Riz local,Thiès,Marché de démonstration Thiès,446.21,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Riz local,Thiès,Marché de démonstration Thiès,439.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Riz local,Thiès,Marché de démonstration Thiès,442.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Riz local,Thiès,Marché de démonstration Thiès,445.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Riz local,Thiès,Marché de démonstration Thiès,451.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Riz local,Thiès,Marché de démonstration Thiès,444.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Riz local,Thiès,Marché de démonstration Thiès,444.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Riz local,Thiès,Marché de démonstration Thiès,441.42,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Riz local,Thiès,Marché de démonstration Thiès,452.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Riz local,Thiès,Marché de démonstration Thiès,444.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Riz local,Thiès,Marché de démonstration Thiès,456.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Riz local,Thiès,Marché de démonstration Thiès,455.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Riz local,Thiès,Marché de démonstration Thiès,438.53,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Riz local,Thiès,Marché de démonstration Thiès,440.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Riz local,Thiès,Marché de démonstration Thiès,448.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Riz local,Thiès,Marché de démonstration Thiès,437.63,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Riz local,Thiès,Marché de démonstration Thiès,434.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Riz local,Thiès,Marché de démonstration Thiès,448.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Riz local,Thiès,Marché de démonstration Thiès,439.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Riz local,Thiès,Marché de démonstration Thiès,436.29,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Riz local,Thiès,Marché de démonstration Thiès,440.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Riz local,Thiès,Marché de démonstration Thiès,439.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Riz local,Thiès,Marché de démonstration Thiès,425.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Riz local,Thiès,Marché de démonstration Thiès,421.89,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Riz local,Thiès,Marché de démonstration Thiès,426.97,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Riz local,Thiès,Marché de démonstration Thiès,425.31,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Riz local,Thiès,Marché de démonstration Thiès,424.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,458.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,459.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,467.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,451.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,459.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,459.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,471.21,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,460.11,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,459.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,465.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,465.89,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,463.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,462.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,476.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,466.31,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,474.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,467.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,456.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,473.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,469.13,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,470.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,467.57,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,464.11,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,448.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,452.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,445.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,446.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,437.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,441.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,451.33,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,434.7,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,442.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,434.29,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,431.71,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,440.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,439.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,429.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,431.47,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,419.15,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,421.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,433.99,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,425.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,424.96,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,429.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,415.7,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,426.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,425.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,433.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,421.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,438.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,422.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,426.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,436.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,440.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,433.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,433.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,450.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,439.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,448.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,451.42,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,449.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,454.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,455.21,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,465.13,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,452.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,463.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,455.33,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,459.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,465.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,459.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,459.77,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,468.7,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,455.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,462.64,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,473.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,472.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,453.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,455.15,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,455.15,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,467.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,465.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,463.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,452.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,446.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,458.42,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,454.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,451.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,457.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,449.3,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Riz local,Saint-Louis,Marché de démonstration Saint-Louis,435.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Oignon,Dakar,Marché de démonstration Dakar,573.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Oignon,Dakar,Marché de démonstration Dakar,564.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Oignon,Dakar,Marché de démonstration Dakar,572.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Oignon,Dakar,Marché de démonstration Dakar,578.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Oignon,Dakar,Marché de démonstration Dakar,563.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Oignon,Dakar,Marché de démonstration Dakar,563.57,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Oignon,Dakar,Marché de démonstration Dakar,563.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Oignon,Dakar,Marché de démonstration Dakar,572.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Oignon,Dakar,Marché de démonstration Dakar,566.77,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Oignon,Dakar,Marché de démonstration Dakar,573.01,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Oignon,Dakar,Marché de démonstration Dakar,574.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Oignon,Dakar,Marché de démonstration Dakar,563.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Oignon,Dakar,Marché de démonstration Dakar,571.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Oignon,Dakar,Marché de démonstration Dakar,562.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Oignon,Dakar,Marché de démonstration Dakar,565.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Oignon,Dakar,Marché de démonstration Dakar,572.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Oignon,Dakar,Marché de démonstration Dakar,570.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Oignon,Dakar,Marché de démonstration Dakar,553.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Oignon,Dakar,Marché de démonstration Dakar,558.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Oignon,Dakar,Marché de démonstration Dakar,554.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Oignon,Dakar,Marché de démonstration Dakar,547.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Oignon,Dakar,Marché de démonstration Dakar,560.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Oignon,Dakar,Marché de démonstration Dakar,556.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Oignon,Dakar,Marché de démonstration Dakar,547.64,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Oignon,Dakar,Marché de démonstration Dakar,555.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Oignon,Dakar,Marché de démonstration Dakar,550.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Oignon,Dakar,Marché de démonstration Dakar,547.21,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Oignon,Dakar,Marché de démonstration Dakar,537.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Oignon,Dakar,Marché de démonstration Dakar,538.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Oignon,Dakar,Marché de démonstration Dakar,553.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Oignon,Dakar,Marché de démonstration Dakar,553.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Oignon,Dakar,Marché de démonstration Dakar,546.44,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Oignon,Dakar,Marché de démonstration Dakar,552.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Oignon,Dakar,Marché de démonstration Dakar,547.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Oignon,Dakar,Marché de démonstration Dakar,538.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Oignon,Dakar,Marché de démonstration Dakar,539.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Oignon,Dakar,Marché de démonstration Dakar,543.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Oignon,Dakar,Marché de démonstration Dakar,556.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Oignon,Dakar,Marché de démonstration Dakar,555.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Oignon,Dakar,Marché de démonstration Dakar,557.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Oignon,Dakar,Marché de démonstration Dakar,559.89,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Oignon,Dakar,Marché de démonstration Dakar,547.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Oignon,Dakar,Marché de démonstration Dakar,550.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Oignon,Dakar,Marché de démonstration Dakar,548.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Oignon,Dakar,Marché de démonstration Dakar,564.21,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Oignon,Dakar,Marché de démonstration Dakar,568.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Oignon,Dakar,Marché de démonstration Dakar,560.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Oignon,Dakar,Marché de démonstration Dakar,566.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Oignon,Dakar,Marché de démonstration Dakar,559.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Oignon,Dakar,Marché de démonstration Dakar,576.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Oignon,Dakar,Marché de démonstration Dakar,576.8,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Oignon,Dakar,Marché de démonstration Dakar,580.64,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Oignon,Dakar,Marché de démonstration Dakar,578.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Oignon,Dakar,Marché de démonstration Dakar,581.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Oignon,Dakar,Marché de démonstration Dakar,565.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Oignon,Dakar,Marché de démonstration Dakar,580.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Oignon,Dakar,Marché de démonstration Dakar,573.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Oignon,Dakar,Marché de démonstration Dakar,586.29,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Oignon,Dakar,Marché de démonstration Dakar,584.15,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Oignon,Dakar,Marché de démonstration Dakar,585.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Oignon,Dakar,Marché de démonstration Dakar,584.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Oignon,Dakar,Marché de démonstration Dakar,573.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Oignon,Dakar,Marché de démonstration Dakar,583.33,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Oignon,Dakar,Marché de démonstration Dakar,569.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Oignon,Dakar,Marché de démonstration Dakar,583.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Oignon,Dakar,Marché de démonstration Dakar,582.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Oignon,Dakar,Marché de démonstration Dakar,568.01,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Oignon,Dakar,Marché de démonstration Dakar,578.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Oignon,Dakar,Marché de démonstration Dakar,569.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Oignon,Dakar,Marché de démonstration Dakar,564.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Oignon,Dakar,Marché de démonstration Dakar,572.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Oignon,Dakar,Marché de démonstration Dakar,559.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Oignon,Dakar,Marché de démonstration Dakar,552.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Oignon,Dakar,Marché de démonstration Dakar,554.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Oignon,Dakar,Marché de démonstration Dakar,554.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Oignon,Dakar,Marché de démonstration Dakar,563.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Oignon,Dakar,Marché de démonstration Dakar,562.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Oignon,Dakar,Marché de démonstration Dakar,546.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Oignon,Dakar,Marché de démonstration Dakar,552.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Oignon,Dakar,Marché de démonstration Dakar,545.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Oignon,Dakar,Marché de démonstration Dakar,554.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Oignon,Dakar,Marché de démonstration Dakar,544.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Oignon,Dakar,Marché de démonstration Dakar,550.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Oignon,Dakar,Marché de démonstration Dakar,532.64,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Oignon,Dakar,Marché de démonstration Dakar,548.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Oignon,Dakar,Marché de démonstration Dakar,531.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Oignon,Dakar,Marché de démonstration Dakar,546.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Oignon,Dakar,Marché de démonstration Dakar,531.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Oignon,Dakar,Marché de démonstration Dakar,528.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Oignon,Dakar,Marché de démonstration Dakar,534.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Oignon,Thiès,Marché de démonstration Thiès,590.63,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Oignon,Thiès,Marché de démonstration Thiès,583.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Oignon,Thiès,Marché de démonstration Thiès,590.21,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Oignon,Thiès,Marché de démonstration Thiès,588.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Oignon,Thiès,Marché de démonstration Thiès,586.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Oignon,Thiès,Marché de démonstration Thiès,590.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Oignon,Thiès,Marché de démonstration Thiès,584.4,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Oignon,Thiès,Marché de démonstration Thiès,593.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Oignon,Thiès,Marché de démonstration Thiès,578.53,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Oignon,Thiès,Marché de démonstration Thiès,596.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Oignon,Thiès,Marché de démonstration Thiès,587.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Oignon,Thiès,Marché de démonstration Thiès,590.02,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Oignon,Thiès,Marché de démonstration Thiès,589.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Oignon,Thiès,Marché de démonstration Thiès,586.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Oignon,Thiès,Marché de démonstration Thiès,578.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Oignon,Thiès,Marché de démonstration Thiès,570.8,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Oignon,Thiès,Marché de démonstration Thiès,580.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Oignon,Thiès,Marché de démonstration Thiès,572.21,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Oignon,Thiès,Marché de démonstration Thiès,569.89,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Oignon,Thiès,Marché de démonstration Thiès,578.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Oignon,Thiès,Marché de démonstration Thiès,573.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Oignon,Thiès,Marché de démonstration Thiès,563.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Oignon,Thiès,Marché de démonstration Thiès,561.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Oignon,Thiès,Marché de démonstration Thiès,561.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Oignon,Thiès,Marché de démonstration Thiès,560.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Oignon,Thiès,Marché de démonstration Thiès,556.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Oignon,Thiès,Marché de démonstration Thiès,551.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Oignon,Thiès,Marché de démonstration Thiès,555.85,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Oignon,Thiès,Marché de démonstration Thiès,565.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Oignon,Thiès,Marché de démonstration Thiès,558.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Oignon,Thiès,Marché de démonstration Thiès,562.44,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Oignon,Thiès,Marché de démonstration Thiès,556.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Oignon,Thiès,Marché de démonstration Thiès,549.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Oignon,Thiès,Marché de démonstration Thiès,554.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Oignon,Thiès,Marché de démonstration Thiès,543.13,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Oignon,Thiès,Marché de démonstration Thiès,549.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Oignon,Thiès,Marché de démonstration Thiès,552.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Oignon,Thiès,Marché de démonstration Thiès,555.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Oignon,Thiès,Marché de démonstration Thiès,558.24,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Oignon,Thiès,Marché de démonstration Thiès,555.42,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Oignon,Thiès,Marché de démonstration Thiès,556.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Oignon,Thiès,Marché de démonstration Thiès,552.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Oignon,Thiès,Marché de démonstration Thiès,559.4,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Oignon,Thiès,Marché de démonstration Thiès,569.47,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Oignon,Thiès,Marché de démonstration Thiès,568.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Oignon,Thiès,Marché de démonstration Thiès,558.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Oignon,Thiès,Marché de démonstration Thiès,558.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Oignon,Thiès,Marché de démonstration Thiès,568.4,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Oignon,Thiès,Marché de démonstration Thiès,572.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Oignon,Thiès,Marché de démonstration Thiès,568.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Oignon,Thiès,Marché de démonstration Thiès,579.44,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Oignon,Thiès,Marché de démonstration Thiès,579.63,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Oignon,Thiès,Marché de démonstration Thiès,579.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Oignon,Thiès,Marché de démonstration Thiès,571.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Oignon,Thiès,Marché de démonstration Thiès,572.53,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Oignon,Thiès,Marché de démonstration Thiès,570.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Oignon,Thiès,Marché de démonstration Thiès,575.33,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Oignon,Thiès,Marché de démonstration Thiès,580.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Oignon,Thiès,Marché de démonstration Thiès,588.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Oignon,Thiès,Marché de démonstration Thiès,573.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Oignon,Thiès,Marché de démonstration Thiès,580.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Oignon,Thiès,Marché de démonstration Thiès,584.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Oignon,Thiès,Marché de démonstration Thiès,575.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Oignon,Thiès,Marché de démonstration Thiès,584.89,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Oignon,Thiès,Marché de démonstration Thiès,580.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Oignon,Thiès,Marché de démonstration Thiès,574.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Oignon,Thiès,Marché de démonstration Thiès,581.32,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Oignon,Thiès,Marché de démonstration Thiès,567.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Oignon,Thiès,Marché de démonstration Thiès,580.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Oignon,Thiès,Marché de démonstration Thiès,579.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Oignon,Thiès,Marché de démonstration Thiès,564.4,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Oignon,Thiès,Marché de démonstration Thiès,569.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Oignon,Thiès,Marché de démonstration Thiès,562.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Oignon,Thiès,Marché de démonstration Thiès,575.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Oignon,Thiès,Marché de démonstration Thiès,565.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Oignon,Thiès,Marché de démonstration Thiès,553.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Oignon,Thiès,Marché de démonstration Thiès,556.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Oignon,Thiès,Marché de démonstration Thiès,566.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Oignon,Thiès,Marché de démonstration Thiès,556.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Oignon,Thiès,Marché de démonstration Thiès,561.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Oignon,Thiès,Marché de démonstration Thiès,557.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Oignon,Thiès,Marché de démonstration Thiès,562.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Oignon,Thiès,Marché de démonstration Thiès,553.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Oignon,Thiès,Marché de démonstration Thiès,559.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Oignon,Thiès,Marché de démonstration Thiès,557.47,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Oignon,Thiès,Marché de démonstration Thiès,551.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Oignon,Thiès,Marché de démonstration Thiès,552.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Oignon,Thiès,Marché de démonstration Thiès,548.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Oignon,Thiès,Marché de démonstration Thiès,554.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Oignon,Thiès,Marché de démonstration Thiès,549.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,606.21,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,603.85,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,598.96,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,594.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,594.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,602.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,604.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,598.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,600.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,591.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,586.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,589.21,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,587.24,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,586.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,588.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,578.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,578.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,585.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,583.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,568.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,572.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,573.3,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,568.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,562.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,564.64,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,572.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,564.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,565.13,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,567.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,564.09,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,555.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,547.3,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,553.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,561.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,563.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,565.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,555.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,562.8,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,559.64,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,561.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,555.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,556.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,562.72,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,556.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,564.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,572.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,569.33,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,566.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,574.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,569.63,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,581.42,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,571.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,580.44,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,585.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,576.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,589.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,581.02,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,588.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,581.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,588.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,585.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,588.15,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,596.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,589.13,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,596.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,597.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,585.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,580.78,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,578.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,587.77,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,595.71,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,581.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,585.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,587.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,582.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,583.44,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,585.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,569.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,564.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,565.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,563.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,573.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,570.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,562.99,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,572.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,572.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,560.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,569.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,572.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Oignon,Saint-Louis,Marché de démonstration Saint-Louis,560.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Tomate,Dakar,Marché de démonstration Dakar,672.4,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Tomate,Dakar,Marché de démonstration Dakar,674.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Tomate,Dakar,Marché de démonstration Dakar,656.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Tomate,Dakar,Marché de démonstration Dakar,654.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Tomate,Dakar,Marché de démonstration Dakar,659.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Tomate,Dakar,Marché de démonstration Dakar,665.21,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Tomate,Dakar,Marché de démonstration Dakar,669.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Tomate,Dakar,Marché de démonstration Dakar,656.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Tomate,Dakar,Marché de démonstration Dakar,661.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Tomate,Dakar,Marché de démonstration Dakar,647.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Tomate,Dakar,Marché de démonstration Dakar,658.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Tomate,Dakar,Marché de démonstration Dakar,655.78,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Tomate,Dakar,Marché de démonstration Dakar,643.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Tomate,Dakar,Marché de démonstration Dakar,655.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Tomate,Dakar,Marché de démonstration Dakar,656.13,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Tomate,Dakar,Marché de démonstration Dakar,649.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Tomate,Dakar,Marché de démonstration Dakar,639.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Tomate,Dakar,Marché de démonstration Dakar,655.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Tomate,Dakar,Marché de démonstration Dakar,650.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Tomate,Dakar,Marché de démonstration Dakar,641.4,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Tomate,Dakar,Marché de démonstration Dakar,642.57,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Tomate,Dakar,Marché de démonstration Dakar,641.15,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Tomate,Dakar,Marché de démonstration Dakar,643.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Tomate,Dakar,Marché de démonstration Dakar,640.63,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Tomate,Dakar,Marché de démonstration Dakar,651.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Tomate,Dakar,Marché de démonstration Dakar,651.13,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Tomate,Dakar,Marché de démonstration Dakar,637.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Tomate,Dakar,Marché de démonstration Dakar,655.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Tomate,Dakar,Marché de démonstration Dakar,650.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Tomate,Dakar,Marché de démonstration Dakar,655.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Tomate,Dakar,Marché de démonstration Dakar,654.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Tomate,Dakar,Marché de démonstration Dakar,650.53,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Tomate,Dakar,Marché de démonstration Dakar,658.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Tomate,Dakar,Marché de démonstration Dakar,664.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Tomate,Dakar,Marché de démonstration Dakar,652.7,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Tomate,Dakar,Marché de démonstration Dakar,665.44,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Tomate,Dakar,Marché de démonstration Dakar,662.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Tomate,Dakar,Marché de démonstration Dakar,663.02,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Tomate,Dakar,Marché de démonstration Dakar,664.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Tomate,Dakar,Marché de démonstration Dakar,672.01,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Tomate,Dakar,Marché de démonstration Dakar,664.71,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Tomate,Dakar,Marché de démonstration Dakar,678.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Tomate,Dakar,Marché de démonstration Dakar,679.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Tomate,Dakar,Marché de démonstration Dakar,666.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Tomate,Dakar,Marché de démonstration Dakar,683.78,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Tomate,Dakar,Marché de démonstration Dakar,672.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Tomate,Dakar,Marché de démonstration Dakar,677.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Tomate,Dakar,Marché de démonstration Dakar,681.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Tomate,Dakar,Marché de démonstration Dakar,677.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Tomate,Dakar,Marché de démonstration Dakar,671.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Tomate,Dakar,Marché de démonstration Dakar,688.24,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Tomate,Dakar,Marché de démonstration Dakar,674.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Tomate,Dakar,Marché de démonstration Dakar,675.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Tomate,Dakar,Marché de démonstration Dakar,686.72,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Tomate,Dakar,Marché de démonstration Dakar,676.96,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Tomate,Dakar,Marché de démonstration Dakar,686.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Tomate,Dakar,Marché de démonstration Dakar,682.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Tomate,Dakar,Marché de démonstration Dakar,672.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Tomate,Dakar,Marché de démonstration Dakar,665.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Tomate,Dakar,Marché de démonstration Dakar,682.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Tomate,Dakar,Marché de démonstration Dakar,663.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Tomate,Dakar,Marché de démonstration Dakar,674.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Tomate,Dakar,Marché de démonstration Dakar,667.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Tomate,Dakar,Marché de démonstration Dakar,671.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Tomate,Dakar,Marché de démonstration Dakar,667.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Tomate,Dakar,Marché de démonstration Dakar,664.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Tomate,Dakar,Marché de démonstration Dakar,659.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Tomate,Dakar,Marché de démonstration Dakar,662.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Tomate,Dakar,Marché de démonstration Dakar,646.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Tomate,Dakar,Marché de démonstration Dakar,646.99,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Tomate,Dakar,Marché de démonstration Dakar,654.29,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Tomate,Dakar,Marché de démonstration Dakar,644.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Tomate,Dakar,Marché de démonstration Dakar,648.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Tomate,Dakar,Marché de démonstration Dakar,644.33,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Tomate,Dakar,Marché de démonstration Dakar,643.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Tomate,Dakar,Marché de démonstration Dakar,640.44,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Tomate,Dakar,Marché de démonstration Dakar,645.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Tomate,Dakar,Marché de démonstration Dakar,636.4,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Tomate,Dakar,Marché de démonstration Dakar,643.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Tomate,Dakar,Marché de démonstration Dakar,633.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Tomate,Dakar,Marché de démonstration Dakar,633.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Tomate,Dakar,Marché de démonstration Dakar,630.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Tomate,Dakar,Marché de démonstration Dakar,632.24,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Tomate,Dakar,Marché de démonstration Dakar,631.2,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Tomate,Dakar,Marché de démonstration Dakar,640.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Tomate,Dakar,Marché de démonstration Dakar,645.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Tomate,Dakar,Marché de démonstration Dakar,635.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Tomate,Dakar,Marché de démonstration Dakar,636.96,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Tomate,Dakar,Marché de démonstration Dakar,643.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Tomate,Dakar,Marché de démonstration Dakar,650.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Tomate,Thiès,Marché de démonstration Thiès,694.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Tomate,Thiès,Marché de démonstration Thiès,685.11,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Tomate,Thiès,Marché de démonstration Thiès,679.31,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Tomate,Thiès,Marché de démonstration Thiès,674.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Tomate,Thiès,Marché de démonstration Thiès,675.09,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Tomate,Thiès,Marché de démonstration Thiès,674.32,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Tomate,Thiès,Marché de démonstration Thiès,671.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Tomate,Thiès,Marché de démonstration Thiès,666.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Tomate,Thiès,Marché de démonstration Thiès,675.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Tomate,Thiès,Marché de démonstration Thiès,668.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Tomate,Thiès,Marché de démonstration Thiès,680.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Tomate,Thiès,Marché de démonstration Thiès,670.44,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Tomate,Thiès,Marché de démonstration Thiès,671.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Tomate,Thiès,Marché de démonstration Thiès,658.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Tomate,Thiès,Marché de démonstration Thiès,671.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Tomate,Thiès,Marché de démonstration Thiès,662.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Tomate,Thiès,Marché de démonstration Thiès,668.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Tomate,Thiès,Marché de démonstration Thiès,661.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Tomate,Thiès,Marché de démonstration Thiès,657.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Tomate,Thiès,Marché de démonstration Thiès,656.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Tomate,Thiès,Marché de démonstration Thiès,650.3,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Tomate,Thiès,Marché de démonstration Thiès,646.97,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Tomate,Thiès,Marché de démonstration Thiès,664.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Tomate,Thiès,Marché de démonstration Thiès,654.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Tomate,Thiès,Marché de démonstration Thiès,661.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Tomate,Thiès,Marché de démonstration Thiès,653.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Tomate,Thiès,Marché de démonstration Thiès,647.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Tomate,Thiès,Marché de démonstration Thiès,658.71,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Tomate,Thiès,Marché de démonstration Thiès,647.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Tomate,Thiès,Marché de démonstration Thiès,650.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Tomate,Thiès,Marché de démonstration Thiès,660.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Tomate,Thiès,Marché de démonstration Thiès,656.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Tomate,Thiès,Marché de démonstration Thiès,671.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Tomate,Thiès,Marché de démonstration Thiès,655.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Tomate,Thiès,Marché de démonstration Thiès,669.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Tomate,Thiès,Marché de démonstration Thiès,668.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Tomate,Thiès,Marché de démonstration Thiès,673.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Tomate,Thiès,Marché de démonstration Thiès,664.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Tomate,Thiès,Marché de démonstration Thiès,671.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Tomate,Thiès,Marché de démonstration Thiès,672.01,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Tomate,Thiès,Marché de démonstration Thiès,673.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Tomate,Thiès,Marché de démonstration Thiès,683.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Tomate,Thiès,Marché de démonstration Thiès,687.64,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Tomate,Thiès,Marché de démonstration Thiès,675.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Tomate,Thiès,Marché de démonstration Thiès,682.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Tomate,Thiès,Marché de démonstration Thiès,683.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Tomate,Thiès,Marché de démonstration Thiès,687.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Tomate,Thiès,Marché de démonstration Thiès,692.47,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Tomate,Thiès,Marché de démonstration Thiès,678.3,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Tomate,Thiès,Marché de démonstration Thiès,678.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Tomate,Thiès,Marché de démonstration Thiès,688.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Tomate,Thiès,Marché de démonstration Thiès,677.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Tomate,Thiès,Marché de démonstration Thiès,678.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Tomate,Thiès,Marché de démonstration Thiès,675.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Tomate,Thiès,Marché de démonstration Thiès,673.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Tomate,Thiès,Marché de démonstration Thiès,681.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Tomate,Thiès,Marché de démonstration Thiès,683.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Tomate,Thiès,Marché de démonstration Thiès,676.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Tomate,Thiès,Marché de démonstration Thiès,673.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Tomate,Thiès,Marché de démonstration Thiès,681.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Tomate,Thiès,Marché de démonstration Thiès,679.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Tomate,Thiès,Marché de démonstration Thiès,673.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Tomate,Thiès,Marché de démonstration Thiès,675.8,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Tomate,Thiès,Marché de démonstration Thiès,678.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Tomate,Thiès,Marché de démonstration Thiès,673.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Tomate,Thiès,Marché de démonstration Thiès,668.47,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Tomate,Thiès,Marché de démonstration Thiès,667.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Tomate,Thiès,Marché de démonstration Thiès,670.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Tomate,Thiès,Marché de démonstration Thiès,658.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Tomate,Thiès,Marché de démonstration Thiès,658.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Tomate,Thiès,Marché de démonstration Thiès,659.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Tomate,Thiès,Marché de démonstration Thiès,662.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Tomate,Thiès,Marché de démonstration Thiès,659.33,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Tomate,Thiès,Marché de démonstration Thiès,642.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Tomate,Thiès,Marché de démonstration Thiès,643.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Tomate,Thiès,Marché de démonstration Thiès,645.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Tomate,Thiès,Marché de démonstration Thiès,653.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Tomate,Thiès,Marché de démonstration Thiès,649.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Tomate,Thiès,Marché de démonstration Thiès,643.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Tomate,Thiès,Marché de démonstration Thiès,639.63,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Tomate,Thiès,Marché de démonstration Thiès,651.02,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Tomate,Thiès,Marché de démonstration Thiès,651.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Tomate,Thiès,Marché de démonstration Thiès,657.02,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Tomate,Thiès,Marché de démonstration Thiès,649.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Tomate,Thiès,Marché de démonstration Thiès,649.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Tomate,Thiès,Marché de démonstration Thiès,642.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Tomate,Thiès,Marché de démonstration Thiès,643.57,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Tomate,Thiès,Marché de démonstration Thiès,653.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Tomate,Thiès,Marché de démonstration Thiès,652.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Tomate,Thiès,Marché de démonstration Thiès,653.29,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,689.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,705.64,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,701.75,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,694.99,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,700.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,699.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,691.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,681.3,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,674.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,686.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,678.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,680.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,683.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,666.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,672.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,671.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,667.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,657.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,661.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,659.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,665.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,667.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,656.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,663.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,655.11,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,668.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,665.77,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,660.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,659.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,657.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,658.77,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,672.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,662.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,666.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,677.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,672.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,672.09,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,671.29,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,668.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,673.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,683.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,682.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,687.11,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,677.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,685.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,694.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,686.33,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,692.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,681.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,699.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,692.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,685.78,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,684.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,692.01,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,691.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,682.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,699.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,696.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,686.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,678.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,691.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,683.72,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,686.57,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,680.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,674.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,684.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,685.31,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,668.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,673.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,668.63,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,677.97,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,668.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,674.63,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,673.3,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,660.7,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,670.32,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,662.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,672.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,663.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,670.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,660.09,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,661.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,667.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,677.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,668.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,662.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,672.47,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,670.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,676.7,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Tomate,Saint-Louis,Marché de démonstration Saint-Louis,678.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Mil,Dakar,Marché de démonstration Dakar,380.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Mil,Dakar,Marché de démonstration Dakar,376.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Mil,Dakar,Marché de démonstration Dakar,372.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Mil,Dakar,Marché de démonstration Dakar,380.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Mil,Dakar,Marché de démonstration Dakar,377.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Mil,Dakar,Marché de démonstration Dakar,369.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Mil,Dakar,Marché de démonstration Dakar,378.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Mil,Dakar,Marché de démonstration Dakar,363.31,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Mil,Dakar,Marché de démonstration Dakar,376.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Mil,Dakar,Marché de démonstration Dakar,375.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Mil,Dakar,Marché de démonstration Dakar,376.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Mil,Dakar,Marché de démonstration Dakar,367.85,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Mil,Dakar,Marché de démonstration Dakar,373.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Mil,Dakar,Marché de démonstration Dakar,376.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Mil,Dakar,Marché de démonstration Dakar,380.01,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Mil,Dakar,Marché de démonstration Dakar,370.8,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Mil,Dakar,Marché de démonstration Dakar,362.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Mil,Dakar,Marché de démonstration Dakar,372.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Mil,Dakar,Marché de démonstration Dakar,375.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Mil,Dakar,Marché de démonstration Dakar,382.32,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Mil,Dakar,Marché de démonstration Dakar,383.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Mil,Dakar,Marché de démonstration Dakar,376.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Mil,Dakar,Marché de démonstration Dakar,380.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Mil,Dakar,Marché de démonstration Dakar,380.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Mil,Dakar,Marché de démonstration Dakar,388.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Mil,Dakar,Marché de démonstration Dakar,384.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Mil,Dakar,Marché de démonstration Dakar,391.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Mil,Dakar,Marché de démonstration Dakar,383.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Mil,Dakar,Marché de démonstration Dakar,391.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Mil,Dakar,Marché de démonstration Dakar,404.15,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Mil,Dakar,Marché de démonstration Dakar,393.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Mil,Dakar,Marché de démonstration Dakar,402.97,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Mil,Dakar,Marché de démonstration Dakar,404.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Mil,Dakar,Marché de démonstration Dakar,410.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Mil,Dakar,Marché de démonstration Dakar,412.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Mil,Dakar,Marché de démonstration Dakar,413.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Mil,Dakar,Marché de démonstration Dakar,405.8,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Mil,Dakar,Marché de démonstration Dakar,405.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Mil,Dakar,Marché de démonstration Dakar,415.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Mil,Dakar,Marché de démonstration Dakar,416.8,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Mil,Dakar,Marché de démonstration Dakar,419.77,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Mil,Dakar,Marché de démonstration Dakar,403.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Mil,Dakar,Marché de démonstration Dakar,404.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Mil,Dakar,Marché de démonstration Dakar,415.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Mil,Dakar,Marché de démonstration Dakar,421.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Mil,Dakar,Marché de démonstration Dakar,422.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Mil,Dakar,Marché de démonstration Dakar,416.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Mil,Dakar,Marché de démonstration Dakar,409.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Mil,Dakar,Marché de démonstration Dakar,401.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Mil,Dakar,Marché de démonstration Dakar,410.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Mil,Dakar,Marché de démonstration Dakar,414.13,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Mil,Dakar,Marché de démonstration Dakar,403.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Mil,Dakar,Marché de démonstration Dakar,407.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Mil,Dakar,Marché de démonstration Dakar,409.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Mil,Dakar,Marché de démonstration Dakar,390.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Mil,Dakar,Marché de démonstration Dakar,402.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Mil,Dakar,Marché de démonstration Dakar,390.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Mil,Dakar,Marché de démonstration Dakar,390.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Mil,Dakar,Marché de démonstration Dakar,383.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Mil,Dakar,Marché de démonstration Dakar,388.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Mil,Dakar,Marché de démonstration Dakar,387.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Mil,Dakar,Marché de démonstration Dakar,389.72,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Mil,Dakar,Marché de démonstration Dakar,375.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Mil,Dakar,Marché de démonstration Dakar,371.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Mil,Dakar,Marché de démonstration Dakar,385.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Mil,Dakar,Marché de démonstration Dakar,379.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Mil,Dakar,Marché de démonstration Dakar,370.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Mil,Dakar,Marché de démonstration Dakar,382.32,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Mil,Dakar,Marché de démonstration Dakar,365.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Mil,Dakar,Marché de démonstration Dakar,371.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Mil,Dakar,Marché de démonstration Dakar,366.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Mil,Dakar,Marché de démonstration Dakar,366.44,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Mil,Dakar,Marché de démonstration Dakar,361.4,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Mil,Dakar,Marché de démonstration Dakar,377.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Mil,Dakar,Marché de démonstration Dakar,379.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Mil,Dakar,Marché de démonstration Dakar,375.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Mil,Dakar,Marché de démonstration Dakar,366.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Mil,Dakar,Marché de démonstration Dakar,372.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Mil,Dakar,Marché de démonstration Dakar,371.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Mil,Dakar,Marché de démonstration Dakar,378.09,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Mil,Dakar,Marché de démonstration Dakar,380.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Mil,Dakar,Marché de démonstration Dakar,377.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Mil,Dakar,Marché de démonstration Dakar,376.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Mil,Dakar,Marché de démonstration Dakar,389.8,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Mil,Dakar,Marché de démonstration Dakar,378.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Mil,Dakar,Marché de démonstration Dakar,384.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Mil,Dakar,Marché de démonstration Dakar,388.24,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Mil,Dakar,Marché de démonstration Dakar,385.24,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Mil,Dakar,Marché de démonstration Dakar,393.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Mil,Dakar,Marché de démonstration Dakar,395.72,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Mil,Thiès,Marché de démonstration Thiès,410.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Mil,Thiès,Marché de démonstration Thiès,394.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Mil,Thiès,Marché de démonstration Thiès,406.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Mil,Thiès,Marché de démonstration Thiès,398.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Mil,Thiès,Marché de démonstration Thiès,389.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Mil,Thiès,Marché de démonstration Thiès,393.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Mil,Thiès,Marché de démonstration Thiès,394.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Mil,Thiès,Marché de démonstration Thiès,394.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Mil,Thiès,Marché de démonstration Thiès,379.75,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Mil,Thiès,Marché de démonstration Thiès,389.89,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Mil,Thiès,Marché de démonstration Thiès,386.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Mil,Thiès,Marché de démonstration Thiès,394.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Mil,Thiès,Marché de démonstration Thiès,381.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Mil,Thiès,Marché de démonstration Thiès,391.47,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Mil,Thiès,Marché de démonstration Thiès,387.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Mil,Thiès,Marché de démonstration Thiès,382.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Mil,Thiès,Marché de démonstration Thiès,388.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Mil,Thiès,Marché de démonstration Thiès,388.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Mil,Thiès,Marché de démonstration Thiès,390.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Mil,Thiès,Marché de démonstration Thiès,392.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Mil,Thiès,Marché de démonstration Thiès,392.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Mil,Thiès,Marché de démonstration Thiès,397.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Mil,Thiès,Marché de démonstration Thiès,394.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Mil,Thiès,Marché de démonstration Thiès,401.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Mil,Thiès,Marché de démonstration Thiès,397.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Mil,Thiès,Marché de démonstration Thiès,392.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Mil,Thiès,Marché de démonstration Thiès,397.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Mil,Thiès,Marché de démonstration Thiès,401.64,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Mil,Thiès,Marché de démonstration Thiès,406.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Mil,Thiès,Marché de démonstration Thiès,395.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Mil,Thiès,Marché de démonstration Thiès,401.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Mil,Thiès,Marché de démonstration Thiès,412.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Mil,Thiès,Marché de démonstration Thiès,402.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Mil,Thiès,Marché de démonstration Thiès,403.29,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Mil,Thiès,Marché de démonstration Thiès,412.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Mil,Thiès,Marché de démonstration Thiès,422.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Mil,Thiès,Marché de démonstration Thiès,415.32,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Mil,Thiès,Marché de démonstration Thiès,424.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Mil,Thiès,Marché de démonstration Thiès,423.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Mil,Thiès,Marché de démonstration Thiès,412.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Mil,Thiès,Marché de démonstration Thiès,424.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Mil,Thiès,Marché de démonstration Thiès,417.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Mil,Thiès,Marché de démonstration Thiès,424.02,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Mil,Thiès,Marché de démonstration Thiès,422.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Mil,Thiès,Marché de démonstration Thiès,414.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Mil,Thiès,Marché de démonstration Thiès,408.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Mil,Thiès,Marché de démonstration Thiès,424.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Mil,Thiès,Marché de démonstration Thiès,407.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Mil,Thiès,Marché de démonstration Thiès,422.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Mil,Thiès,Marché de démonstration Thiès,419.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Mil,Thiès,Marché de démonstration Thiès,414.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Mil,Thiès,Marché de démonstration Thiès,418.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Mil,Thiès,Marché de démonstration Thiès,415.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Mil,Thiès,Marché de démonstration Thiès,410.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Mil,Thiès,Marché de démonstration Thiès,399.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Mil,Thiès,Marché de démonstration Thiès,406.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Mil,Thiès,Marché de démonstration Thiès,388.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Mil,Thiès,Marché de démonstration Thiès,396.72,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Mil,Thiès,Marché de démonstration Thiès,392.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Mil,Thiès,Marché de démonstration Thiès,395.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Mil,Thiès,Marché de démonstration Thiès,393.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Mil,Thiès,Marché de démonstration Thiès,389.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Mil,Thiès,Marché de démonstration Thiès,392.24,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Mil,Thiès,Marché de démonstration Thiès,392.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Mil,Thiès,Marché de démonstration Thiès,374.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Mil,Thiès,Marché de démonstration Thiès,375.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Mil,Thiès,Marché de démonstration Thiès,370.42,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Mil,Thiès,Marché de démonstration Thiès,386.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Mil,Thiès,Marché de démonstration Thiès,379.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Mil,Thiès,Marché de démonstration Thiès,385.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Mil,Thiès,Marché de démonstration Thiès,371.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Mil,Thiès,Marché de démonstration Thiès,368.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Mil,Thiès,Marché de démonstration Thiès,383.89,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Mil,Thiès,Marché de démonstration Thiès,386.02,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Mil,Thiès,Marché de démonstration Thiès,374.53,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Mil,Thiès,Marché de démonstration Thiès,377.53,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Mil,Thiès,Marché de démonstration Thiès,373.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Mil,Thiès,Marché de démonstration Thiès,390.7,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Mil,Thiès,Marché de démonstration Thiès,379.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Mil,Thiès,Marché de démonstration Thiès,384.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Mil,Thiès,Marché de démonstration Thiès,378.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Mil,Thiès,Marché de démonstration Thiès,396.53,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Mil,Thiès,Marché de démonstration Thiès,383.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Mil,Thiès,Marché de démonstration Thiès,392.15,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Mil,Thiès,Marché de démonstration Thiès,398.75,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Mil,Thiès,Marché de démonstration Thiès,402.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Mil,Thiès,Marché de démonstration Thiès,408.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Mil,Thiès,Marché de démonstration Thiès,400.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Mil,Thiès,Marché de démonstration Thiès,409.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Mil,Thiès,Marché de démonstration Thiès,399.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Mil,Saint-Louis,Marché de démonstration Saint-Louis,411.01,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Mil,Saint-Louis,Marché de démonstration Saint-Louis,402.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Mil,Saint-Louis,Marché de démonstration Saint-Louis,408.42,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Mil,Saint-Louis,Marché de démonstration Saint-Louis,404.78,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Mil,Saint-Louis,Marché de démonstration Saint-Louis,413.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Mil,Saint-Louis,Marché de démonstration Saint-Louis,393.42,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Mil,Saint-Louis,Marché de démonstration Saint-Louis,398.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Mil,Saint-Louis,Marché de démonstration Saint-Louis,398.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Mil,Saint-Louis,Marché de démonstration Saint-Louis,406.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Mil,Saint-Louis,Marché de démonstration Saint-Louis,403.47,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Mil,Saint-Louis,Marché de démonstration Saint-Louis,387.13,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Mil,Saint-Louis,Marché de démonstration Saint-Louis,397.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Mil,Saint-Louis,Marché de démonstration Saint-Louis,394.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Mil,Saint-Louis,Marché de démonstration Saint-Louis,402.2,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Mil,Saint-Louis,Marché de démonstration Saint-Louis,389.4,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Mil,Saint-Louis,Marché de démonstration Saint-Louis,389.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Mil,Saint-Louis,Marché de démonstration Saint-Louis,385.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Mil,Saint-Louis,Marché de démonstration Saint-Louis,384.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Mil,Saint-Louis,Marché de démonstration Saint-Louis,399.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Mil,Saint-Louis,Marché de démonstration Saint-Louis,392.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Mil,Saint-Louis,Marché de démonstration Saint-Louis,397.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Mil,Saint-Louis,Marché de démonstration Saint-Louis,397.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Mil,Saint-Louis,Marché de démonstration Saint-Louis,398.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Mil,Saint-Louis,Marché de démonstration Saint-Louis,387.97,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Mil,Saint-Louis,Marché de démonstration Saint-Louis,404.71,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Mil,Saint-Louis,Marché de démonstration Saint-Louis,395.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Mil,Saint-Louis,Marché de démonstration Saint-Louis,394.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Mil,Saint-Louis,Marché de démonstration Saint-Louis,405.11,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Mil,Saint-Louis,Marché de démonstration Saint-Louis,396.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Mil,Saint-Louis,Marché de démonstration Saint-Louis,412.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Mil,Saint-Louis,Marché de démonstration Saint-Louis,403.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Mil,Saint-Louis,Marché de démonstration Saint-Louis,405.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Mil,Saint-Louis,Marché de démonstration Saint-Louis,419.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Mil,Saint-Louis,Marché de démonstration Saint-Louis,410.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Mil,Saint-Louis,Marché de démonstration Saint-Louis,408.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Mil,Saint-Louis,Marché de démonstration Saint-Louis,424.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Mil,Saint-Louis,Marché de démonstration Saint-Louis,408.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Mil,Saint-Louis,Marché de démonstration Saint-Louis,426.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Mil,Saint-Louis,Marché de démonstration Saint-Louis,413.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Mil,Saint-Louis,Marché de démonstration Saint-Louis,413.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Mil,Saint-Louis,Marché de démonstration Saint-Louis,416.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Mil,Saint-Louis,Marché de démonstration Saint-Louis,415.29,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Mil,Saint-Louis,Marché de démonstration Saint-Louis,425.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Mil,Saint-Louis,Marché de démonstration Saint-Louis,412.42,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Mil,Saint-Louis,Marché de démonstration Saint-Louis,411.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Mil,Saint-Louis,Marché de démonstration Saint-Louis,427.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Mil,Saint-Louis,Marché de démonstration Saint-Louis,415.3,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Mil,Saint-Louis,Marché de démonstration Saint-Louis,416.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Mil,Saint-Louis,Marché de démonstration Saint-Louis,412.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Mil,Saint-Louis,Marché de démonstration Saint-Louis,408.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Mil,Saint-Louis,Marché de démonstration Saint-Louis,420.99,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Mil,Saint-Louis,Marché de démonstration Saint-Louis,415.2,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Mil,Saint-Louis,Marché de démonstration Saint-Louis,418.01,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Mil,Saint-Louis,Marché de démonstration Saint-Louis,410.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Mil,Saint-Louis,Marché de démonstration Saint-Louis,415.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Mil,Saint-Louis,Marché de démonstration Saint-Louis,408.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Mil,Saint-Louis,Marché de démonstration Saint-Louis,398.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Mil,Saint-Louis,Marché de démonstration Saint-Louis,404.3,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Mil,Saint-Louis,Marché de démonstration Saint-Louis,411.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Mil,Saint-Louis,Marché de démonstration Saint-Louis,391.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Mil,Saint-Louis,Marché de démonstration Saint-Louis,404.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Mil,Saint-Louis,Marché de démonstration Saint-Louis,404.77,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Mil,Saint-Louis,Marché de démonstration Saint-Louis,396.4,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Mil,Saint-Louis,Marché de démonstration Saint-Louis,393.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Mil,Saint-Louis,Marché de démonstration Saint-Louis,402.78,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Mil,Saint-Louis,Marché de démonstration Saint-Louis,383.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Mil,Saint-Louis,Marché de démonstration Saint-Louis,391.31,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Mil,Saint-Louis,Marché de démonstration Saint-Louis,389.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Mil,Saint-Louis,Marché de démonstration Saint-Louis,394.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Mil,Saint-Louis,Marché de démonstration Saint-Louis,390.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Mil,Saint-Louis,Marché de démonstration Saint-Louis,398.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Mil,Saint-Louis,Marché de démonstration Saint-Louis,382.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Mil,Saint-Louis,Marché de démonstration Saint-Louis,383.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Mil,Saint-Louis,Marché de démonstration Saint-Louis,394.64,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Mil,Saint-Louis,Marché de démonstration Saint-Louis,384.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Mil,Saint-Louis,Marché de démonstration Saint-Louis,390.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Mil,Saint-Louis,Marché de démonstration Saint-Louis,398.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Mil,Saint-Louis,Marché de démonstration Saint-Louis,398.89,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Mil,Saint-Louis,Marché de démonstration Saint-Louis,396.29,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Mil,Saint-Louis,Marché de démonstration Saint-Louis,411.7,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Mil,Saint-Louis,Marché de démonstration Saint-Louis,404.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Mil,Saint-Louis,Marché de démonstration Saint-Louis,405.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Mil,Saint-Louis,Marché de démonstration Saint-Louis,410.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Mil,Saint-Louis,Marché de démonstration Saint-Louis,403.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Mil,Saint-Louis,Marché de démonstration Saint-Louis,417.77,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Mil,Saint-Louis,Marché de démonstration Saint-Louis,423.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Mil,Saint-Louis,Marché de démonstration Saint-Louis,421.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Mil,Saint-Louis,Marché de démonstration Saint-Louis,426.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Mil,Saint-Louis,Marché de démonstration Saint-Louis,428.4,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Mil,Saint-Louis,Marché de démonstration Saint-Louis,420.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Maïs,Dakar,Marché de démonstration Dakar,334.8,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Maïs,Dakar,Marché de démonstration Dakar,329.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Maïs,Dakar,Marché de démonstration Dakar,331.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Maïs,Dakar,Marché de démonstration Dakar,334.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Maïs,Dakar,Marché de démonstration Dakar,333.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Maïs,Dakar,Marché de démonstration Dakar,327.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Maïs,Dakar,Marché de démonstration Dakar,334.78,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Maïs,Dakar,Marché de démonstration Dakar,340.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Maïs,Dakar,Marché de démonstration Dakar,335.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Maïs,Dakar,Marché de démonstration Dakar,332.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Maïs,Dakar,Marché de démonstration Dakar,349.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Maïs,Dakar,Marché de démonstration Dakar,333.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Maïs,Dakar,Marché de démonstration Dakar,350.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Maïs,Dakar,Marché de démonstration Dakar,337.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Maïs,Dakar,Marché de démonstration Dakar,340.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Maïs,Dakar,Marché de démonstration Dakar,355.15,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Maïs,Dakar,Marché de démonstration Dakar,358.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Maïs,Dakar,Marché de démonstration Dakar,356.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Maïs,Dakar,Marché de démonstration Dakar,359.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Maïs,Dakar,Marché de démonstration Dakar,361.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Maïs,Dakar,Marché de démonstration Dakar,358.85,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Maïs,Dakar,Marché de démonstration Dakar,357.09,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Maïs,Dakar,Marché de démonstration Dakar,364.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Maïs,Dakar,Marché de démonstration Dakar,372.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Maïs,Dakar,Marché de démonstration Dakar,376.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Maïs,Dakar,Marché de démonstration Dakar,380.8,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Maïs,Dakar,Marché de démonstration Dakar,379.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Maïs,Dakar,Marché de démonstration Dakar,386.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Maïs,Dakar,Marché de démonstration Dakar,380.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Maïs,Dakar,Marché de démonstration Dakar,376.96,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Maïs,Dakar,Marché de démonstration Dakar,382.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Maïs,Dakar,Marché de démonstration Dakar,376.21,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Maïs,Dakar,Marché de démonstration Dakar,385.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Maïs,Dakar,Marché de démonstration Dakar,377.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Maïs,Dakar,Marché de démonstration Dakar,375.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Maïs,Dakar,Marché de démonstration Dakar,390.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Maïs,Dakar,Marché de démonstration Dakar,380.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Maïs,Dakar,Marché de démonstration Dakar,387.63,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Maïs,Dakar,Marché de démonstration Dakar,383.11,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Maïs,Dakar,Marché de démonstration Dakar,386.8,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Maïs,Dakar,Marché de démonstration Dakar,386.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Maïs,Dakar,Marché de démonstration Dakar,387.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Maïs,Dakar,Marché de démonstration Dakar,382.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Maïs,Dakar,Marché de démonstration Dakar,377.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Maïs,Dakar,Marché de démonstration Dakar,375.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Maïs,Dakar,Marché de démonstration Dakar,361.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Maïs,Dakar,Marché de démonstration Dakar,377.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Maïs,Dakar,Marché de démonstration Dakar,373.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Maïs,Dakar,Marché de démonstration Dakar,360.32,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Maïs,Dakar,Marché de démonstration Dakar,356.47,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Maïs,Dakar,Marché de démonstration Dakar,364.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Maïs,Dakar,Marché de démonstration Dakar,354.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Maïs,Dakar,Marché de démonstration Dakar,353.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Maïs,Dakar,Marché de démonstration Dakar,344.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Maïs,Dakar,Marché de démonstration Dakar,360.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Maïs,Dakar,Marché de démonstration Dakar,352.64,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Maïs,Dakar,Marché de démonstration Dakar,347.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Maïs,Dakar,Marché de démonstration Dakar,341.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Maïs,Dakar,Marché de démonstration Dakar,349.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Maïs,Dakar,Marché de démonstration Dakar,336.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Maïs,Dakar,Marché de démonstration Dakar,350.44,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Maïs,Dakar,Marché de démonstration Dakar,339.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Maïs,Dakar,Marché de démonstration Dakar,343.01,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Maïs,Dakar,Marché de démonstration Dakar,341.3,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Maïs,Dakar,Marché de démonstration Dakar,341.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Maïs,Dakar,Marché de démonstration Dakar,349.32,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Maïs,Dakar,Marché de démonstration Dakar,350.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Maïs,Dakar,Marché de démonstration Dakar,347.47,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Maïs,Dakar,Marché de démonstration Dakar,338.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Maïs,Dakar,Marché de démonstration Dakar,339.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Maïs,Dakar,Marché de démonstration Dakar,342.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Maïs,Dakar,Marché de démonstration Dakar,353.11,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Maïs,Dakar,Marché de démonstration Dakar,355.75,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Maïs,Dakar,Marché de démonstration Dakar,349.33,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Maïs,Dakar,Marché de démonstration Dakar,358.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Maïs,Dakar,Marché de démonstration Dakar,357.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Maïs,Dakar,Marché de démonstration Dakar,357.99,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Maïs,Dakar,Marché de démonstration Dakar,356.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Maïs,Dakar,Marché de démonstration Dakar,367.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Maïs,Dakar,Marché de démonstration Dakar,356.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Maïs,Dakar,Marché de démonstration Dakar,364.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Maïs,Dakar,Marché de démonstration Dakar,363.53,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Maïs,Dakar,Marché de démonstration Dakar,372.96,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Maïs,Dakar,Marché de démonstration Dakar,370.53,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Maïs,Dakar,Marché de démonstration Dakar,375.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Maïs,Dakar,Marché de démonstration Dakar,364.09,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Maïs,Dakar,Marché de démonstration Dakar,372.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Maïs,Dakar,Marché de démonstration Dakar,376.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Maïs,Dakar,Marché de démonstration Dakar,365.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Maïs,Dakar,Marché de démonstration Dakar,371.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Maïs,Thiès,Marché de démonstration Thiès,349.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Maïs,Thiès,Marché de démonstration Thiès,347.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Maïs,Thiès,Marché de démonstration Thiès,349.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Maïs,Thiès,Marché de démonstration Thiès,350.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Maïs,Thiès,Marché de démonstration Thiès,343.78,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Maïs,Thiès,Marché de démonstration Thiès,358.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Maïs,Thiès,Marché de démonstration Thiès,347.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Maïs,Thiès,Marché de démonstration Thiès,352.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Maïs,Thiès,Marché de démonstration Thiès,359.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Maïs,Thiès,Marché de démonstration Thiès,356.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Maïs,Thiès,Marché de démonstration Thiès,363.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Maïs,Thiès,Marché de démonstration Thiès,364.64,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Maïs,Thiès,Marché de démonstration Thiès,351.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Maïs,Thiès,Marché de démonstration Thiès,368.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Maïs,Thiès,Marché de démonstration Thiès,354.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Maïs,Thiès,Marché de démonstration Thiès,355.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Maïs,Thiès,Marché de démonstration Thiès,375.31,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Maïs,Thiès,Marché de démonstration Thiès,376.09,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Maïs,Thiès,Marché de démonstration Thiès,372.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Maïs,Thiès,Marché de démonstration Thiès,374.32,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Maïs,Thiès,Marché de démonstration Thiès,379.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Maïs,Thiès,Marché de démonstration Thiès,375.2,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Maïs,Thiès,Marché de démonstration Thiès,371.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Maïs,Thiès,Marché de démonstration Thiès,371.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Maïs,Thiès,Marché de démonstration Thiès,378.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Maïs,Thiès,Marché de démonstration Thiès,390.02,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Maïs,Thiès,Marché de démonstration Thiès,387.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Maïs,Thiès,Marché de démonstration Thiès,393.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Maïs,Thiès,Marché de démonstration Thiès,396.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Maïs,Thiès,Marché de démonstration Thiès,380.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Maïs,Thiès,Marché de démonstration Thiès,396.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Maïs,Thiès,Marché de démonstration Thiès,385.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Maïs,Thiès,Marché de démonstration Thiès,392.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Maïs,Thiès,Marché de démonstration Thiès,391.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Maïs,Thiès,Marché de démonstration Thiès,388.32,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Maïs,Thiès,Marché de démonstration Thiès,386.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Maïs,Thiès,Marché de démonstration Thiès,386.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Maïs,Thiès,Marché de démonstration Thiès,385.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Maïs,Thiès,Marché de démonstration Thiès,380.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Maïs,Thiès,Marché de démonstration Thiès,386.47,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Maïs,Thiès,Marché de démonstration Thiès,377.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Maïs,Thiès,Marché de démonstration Thiès,383.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Maïs,Thiès,Marché de démonstration Thiès,389.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Maïs,Thiès,Marché de démonstration Thiès,376.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Maïs,Thiès,Marché de démonstration Thiès,382.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Maïs,Thiès,Marché de démonstration Thiès,381.77,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Maïs,Thiès,Marché de démonstration Thiès,379.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Maïs,Thiès,Marché de démonstration Thiès,365.72,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Maïs,Thiès,Marché de démonstration Thiès,361.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Maïs,Thiès,Marché de démonstration Thiès,360.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Maïs,Thiès,Marché de démonstration Thiès,366.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Maïs,Thiès,Marché de démonstration Thiès,367.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Maïs,Thiès,Marché de démonstration Thiès,363.24,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Maïs,Thiès,Marché de démonstration Thiès,351.72,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Maïs,Thiès,Marché de démonstration Thiès,361.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Maïs,Thiès,Marché de démonstration Thiès,354.57,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Maïs,Thiès,Marché de démonstration Thiès,358.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Maïs,Thiès,Marché de démonstration Thiès,357.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Maïs,Thiès,Marché de démonstration Thiès,349.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Maïs,Thiès,Marché de démonstration Thiès,358.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Maïs,Thiès,Marché de démonstration Thiès,350.47,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Maïs,Thiès,Marché de démonstration Thiès,351.44,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Maïs,Thiès,Marché de démonstration Thiès,351.02,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Maïs,Thiès,Marché de démonstration Thiès,355.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Maïs,Thiès,Marché de démonstration Thiès,351.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Maïs,Thiès,Marché de démonstration Thiès,342.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Maïs,Thiès,Marché de démonstration Thiès,341.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Maïs,Thiès,Marché de démonstration Thiès,349.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Maïs,Thiès,Marché de démonstration Thiès,348.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Maïs,Thiès,Marché de démonstration Thiès,348.96,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Maïs,Thiès,Marché de démonstration Thiès,346.11,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Maïs,Thiès,Marché de démonstration Thiès,356.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Maïs,Thiès,Marché de démonstration Thiès,354.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Maïs,Thiès,Marché de démonstration Thiès,359.44,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Maïs,Thiès,Marché de démonstration Thiès,353.57,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Maïs,Thiès,Marché de démonstration Thiès,371.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Maïs,Thiès,Marché de démonstration Thiès,358.21,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Maïs,Thiès,Marché de démonstration Thiès,376.13,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Maïs,Thiès,Marché de démonstration Thiès,378.11,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Maïs,Thiès,Marché de démonstration Thiès,375.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Maïs,Thiès,Marché de démonstration Thiès,375.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Maïs,Thiès,Marché de démonstration Thiès,376.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Maïs,Thiès,Marché de démonstration Thiès,380.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Maïs,Thiès,Marché de démonstration Thiès,386.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Maïs,Thiès,Marché de démonstration Thiès,390.57,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Maïs,Thiès,Marché de démonstration Thiès,383.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Maïs,Thiès,Marché de démonstration Thiès,391.72,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Maïs,Thiès,Marché de démonstration Thiès,389.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Maïs,Thiès,Marché de démonstration Thiès,384.11,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Maïs,Thiès,Marché de démonstration Thiès,387.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,360.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,357.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,357.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,372.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,361.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,368.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,363.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,357.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,359.2,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,363.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,364.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,366.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,360.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,366.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,365.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,369.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,369.85,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,376.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,382.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,381.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,371.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,373.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,386.97,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,380.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,391.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,391.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,397.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,398.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,388.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,394.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,385.96,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,390.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,403.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,397.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,391.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,395.31,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,401.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,388.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,388.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,395.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,394.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,390.53,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,392.09,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,388.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,385.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,380.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,381.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,374.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,371.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,369.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,363.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,362.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,375.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,364.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,358.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,354.96,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,352.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,367.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,351.4,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,364.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,365.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,366.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,349.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,355.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,365.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,353.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,359.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,356.45,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,371.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,371.93,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,374.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,363.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,371.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,373.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,380.99,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,374.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,381.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,380.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,392.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,388.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,393.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,390.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,403.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,398.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,407.75,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,400.2,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,413.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,415.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,406.3,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Maïs,Saint-Louis,Marché de démonstration Saint-Louis,403.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Pomme de terre,Dakar,Marché de démonstration Dakar,481.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Pomme de terre,Dakar,Marché de démonstration Dakar,486.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Pomme de terre,Dakar,Marché de démonstration Dakar,496.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Pomme de terre,Dakar,Marché de démonstration Dakar,495.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Pomme de terre,Dakar,Marché de démonstration Dakar,497.15,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Pomme de terre,Dakar,Marché de démonstration Dakar,486.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Pomme de terre,Dakar,Marché de démonstration Dakar,490.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Pomme de terre,Dakar,Marché de démonstration Dakar,500.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Pomme de terre,Dakar,Marché de démonstration Dakar,507.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Pomme de terre,Dakar,Marché de démonstration Dakar,504.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Pomme de terre,Dakar,Marché de démonstration Dakar,497.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Pomme de terre,Dakar,Marché de démonstration Dakar,515.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Pomme de terre,Dakar,Marché de démonstration Dakar,517.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Pomme de terre,Dakar,Marché de démonstration Dakar,508.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Pomme de terre,Dakar,Marché de démonstration Dakar,520.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Pomme de terre,Dakar,Marché de démonstration Dakar,513.33,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Pomme de terre,Dakar,Marché de démonstration Dakar,528.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Pomme de terre,Dakar,Marché de démonstration Dakar,515.09,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Pomme de terre,Dakar,Marché de démonstration Dakar,522.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Pomme de terre,Dakar,Marché de démonstration Dakar,534.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Pomme de terre,Dakar,Marché de démonstration Dakar,521.72,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Pomme de terre,Dakar,Marché de démonstration Dakar,527.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Pomme de terre,Dakar,Marché de démonstration Dakar,526.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Pomme de terre,Dakar,Marché de démonstration Dakar,521.09,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Pomme de terre,Dakar,Marché de démonstration Dakar,522.24,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Pomme de terre,Dakar,Marché de démonstration Dakar,531.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Pomme de terre,Dakar,Marché de démonstration Dakar,526.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Pomme de terre,Dakar,Marché de démonstration Dakar,541.51,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Pomme de terre,Dakar,Marché de démonstration Dakar,528.78,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Pomme de terre,Dakar,Marché de démonstration Dakar,521.29,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Pomme de terre,Dakar,Marché de démonstration Dakar,538.57,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Pomme de terre,Dakar,Marché de démonstration Dakar,535.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Pomme de terre,Dakar,Marché de démonstration Dakar,530.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Pomme de terre,Dakar,Marché de démonstration Dakar,532.3,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Pomme de terre,Dakar,Marché de démonstration Dakar,517.73,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Pomme de terre,Dakar,Marché de démonstration Dakar,519.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Pomme de terre,Dakar,Marché de démonstration Dakar,528.2,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Pomme de terre,Dakar,Marché de démonstration Dakar,523.7,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Pomme de terre,Dakar,Marché de démonstration Dakar,510.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Pomme de terre,Dakar,Marché de démonstration Dakar,520.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Pomme de terre,Dakar,Marché de démonstration Dakar,512.97,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Pomme de terre,Dakar,Marché de démonstration Dakar,502.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Pomme de terre,Dakar,Marché de démonstration Dakar,501.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Pomme de terre,Dakar,Marché de démonstration Dakar,503.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Pomme de terre,Dakar,Marché de démonstration Dakar,513.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Pomme de terre,Dakar,Marché de démonstration Dakar,505.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Pomme de terre,Dakar,Marché de démonstration Dakar,507.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Pomme de terre,Dakar,Marché de démonstration Dakar,502.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Pomme de terre,Dakar,Marché de démonstration Dakar,492.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Pomme de terre,Dakar,Marché de démonstration Dakar,495.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Pomme de terre,Dakar,Marché de démonstration Dakar,494.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Pomme de terre,Dakar,Marché de démonstration Dakar,489.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Pomme de terre,Dakar,Marché de démonstration Dakar,496.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Pomme de terre,Dakar,Marché de démonstration Dakar,503.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Pomme de terre,Dakar,Marché de démonstration Dakar,496.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Pomme de terre,Dakar,Marché de démonstration Dakar,489.71,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Pomme de terre,Dakar,Marché de démonstration Dakar,505.96,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Pomme de terre,Dakar,Marché de démonstration Dakar,500.36,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Pomme de terre,Dakar,Marché de démonstration Dakar,489.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Pomme de terre,Dakar,Marché de démonstration Dakar,500.44,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Pomme de terre,Dakar,Marché de démonstration Dakar,496.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Pomme de terre,Dakar,Marché de démonstration Dakar,495.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Pomme de terre,Dakar,Marché de démonstration Dakar,502.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Pomme de terre,Dakar,Marché de démonstration Dakar,507.71,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Pomme de terre,Dakar,Marché de démonstration Dakar,501.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Pomme de terre,Dakar,Marché de démonstration Dakar,507.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Pomme de terre,Dakar,Marché de démonstration Dakar,513.72,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Pomme de terre,Dakar,Marché de démonstration Dakar,503.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Pomme de terre,Dakar,Marché de démonstration Dakar,523.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Pomme de terre,Dakar,Marché de démonstration Dakar,507.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Pomme de terre,Dakar,Marché de démonstration Dakar,517.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Pomme de terre,Dakar,Marché de démonstration Dakar,519.2,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Pomme de terre,Dakar,Marché de démonstration Dakar,530.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Pomme de terre,Dakar,Marché de démonstration Dakar,523.13,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Pomme de terre,Dakar,Marché de démonstration Dakar,521.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Pomme de terre,Dakar,Marché de démonstration Dakar,523.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Pomme de terre,Dakar,Marché de démonstration Dakar,528.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Pomme de terre,Dakar,Marché de démonstration Dakar,536.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Pomme de terre,Dakar,Marché de démonstration Dakar,522.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Pomme de terre,Dakar,Marché de démonstration Dakar,517.8,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Pomme de terre,Dakar,Marché de démonstration Dakar,533.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Pomme de terre,Dakar,Marché de démonstration Dakar,524.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Pomme de terre,Dakar,Marché de démonstration Dakar,532.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Pomme de terre,Dakar,Marché de démonstration Dakar,529.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Pomme de terre,Dakar,Marché de démonstration Dakar,532.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Pomme de terre,Dakar,Marché de démonstration Dakar,530.58,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Pomme de terre,Dakar,Marché de démonstration Dakar,521.57,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Pomme de terre,Dakar,Marché de démonstration Dakar,514.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Pomme de terre,Dakar,Marché de démonstration Dakar,523.42,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Pomme de terre,Dakar,Marché de démonstration Dakar,527.33,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Pomme de terre,Thiès,Marché de démonstration Thiès,496.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Pomme de terre,Thiès,Marché de démonstration Thiès,510.26,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Pomme de terre,Thiès,Marché de démonstration Thiès,505.43,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Pomme de terre,Thiès,Marché de démonstration Thiès,511.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Pomme de terre,Thiès,Marché de démonstration Thiès,512.14,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Pomme de terre,Thiès,Marché de démonstration Thiès,517.63,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Pomme de terre,Thiès,Marché de démonstration Thiès,504.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Pomme de terre,Thiès,Marché de démonstration Thiès,521.01,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Pomme de terre,Thiès,Marché de démonstration Thiès,516.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Pomme de terre,Thiès,Marché de démonstration Thiès,515.7,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Pomme de terre,Thiès,Marché de démonstration Thiès,512.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Pomme de terre,Thiès,Marché de démonstration Thiès,518.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Pomme de terre,Thiès,Marché de démonstration Thiès,517.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Pomme de terre,Thiès,Marché de démonstration Thiès,537.2,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Pomme de terre,Thiès,Marché de démonstration Thiès,530.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Pomme de terre,Thiès,Marché de démonstration Thiès,542.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Pomme de terre,Thiès,Marché de démonstration Thiès,535.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Pomme de terre,Thiès,Marché de démonstration Thiès,531.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Pomme de terre,Thiès,Marché de démonstration Thiès,542.53,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Pomme de terre,Thiès,Marché de démonstration Thiès,532.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Pomme de terre,Thiès,Marché de démonstration Thiès,537.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Pomme de terre,Thiès,Marché de démonstration Thiès,546.41,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Pomme de terre,Thiès,Marché de démonstration Thiès,548.8,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Pomme de terre,Thiès,Marché de démonstration Thiès,538.57,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Pomme de terre,Thiès,Marché de démonstration Thiès,534.64,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Pomme de terre,Thiès,Marché de démonstration Thiès,539.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Pomme de terre,Thiès,Marché de démonstration Thiès,549.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Pomme de terre,Thiès,Marché de démonstration Thiès,546.24,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Pomme de terre,Thiès,Marché de démonstration Thiès,548.55,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Pomme de terre,Thiès,Marché de démonstration Thiès,537.44,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Pomme de terre,Thiès,Marché de démonstration Thiès,548.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Pomme de terre,Thiès,Marché de démonstration Thiès,537.13,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Pomme de terre,Thiès,Marché de démonstration Thiès,535.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Pomme de terre,Thiès,Marché de démonstration Thiès,542.46,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Pomme de terre,Thiès,Marché de démonstration Thiès,532.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Pomme de terre,Thiès,Marché de démonstration Thiès,536.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Pomme de terre,Thiès,Marché de démonstration Thiès,532.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Pomme de terre,Thiès,Marché de démonstration Thiès,517.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Pomme de terre,Thiès,Marché de démonstration Thiès,525.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Pomme de terre,Thiès,Marché de démonstration Thiès,528.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Pomme de terre,Thiès,Marché de démonstration Thiès,520.25,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Pomme de terre,Thiès,Marché de démonstration Thiès,513.57,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Pomme de terre,Thiès,Marché de démonstration Thiès,506.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Pomme de terre,Thiès,Marché de démonstration Thiès,516.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Pomme de terre,Thiès,Marché de démonstration Thiès,507.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Pomme de terre,Thiès,Marché de démonstration Thiès,511.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Pomme de terre,Thiès,Marché de démonstration Thiès,505.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Pomme de terre,Thiès,Marché de démonstration Thiès,509.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Pomme de terre,Thiès,Marché de démonstration Thiès,501.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Pomme de terre,Thiès,Marché de démonstration Thiès,494.18,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Pomme de terre,Thiès,Marché de démonstration Thiès,509.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Pomme de terre,Thiès,Marché de démonstration Thiès,498.66,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Pomme de terre,Thiès,Marché de démonstration Thiès,511.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Pomme de terre,Thiès,Marché de démonstration Thiès,496.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Pomme de terre,Thiès,Marché de démonstration Thiès,510.31,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Pomme de terre,Thiès,Marché de démonstration Thiès,509.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Pomme de terre,Thiès,Marché de démonstration Thiès,492.76,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Pomme de terre,Thiès,Marché de démonstration Thiès,504.61,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Pomme de terre,Thiès,Marché de démonstration Thiès,499.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Pomme de terre,Thiès,Marché de démonstration Thiès,509.72,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Pomme de terre,Thiès,Marché de démonstration Thiès,508.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Pomme de terre,Thiès,Marché de démonstration Thiès,515.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Pomme de terre,Thiès,Marché de démonstration Thiès,500.67,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Pomme de terre,Thiès,Marché de démonstration Thiès,511.63,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Pomme de terre,Thiès,Marché de démonstration Thiès,516.89,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Pomme de terre,Thiès,Marché de démonstration Thiès,503.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Pomme de terre,Thiès,Marché de démonstration Thiès,506.42,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Pomme de terre,Thiès,Marché de démonstration Thiès,522.63,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Pomme de terre,Thiès,Marché de démonstration Thiès,516.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Pomme de terre,Thiès,Marché de démonstration Thiès,518.72,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Pomme de terre,Thiès,Marché de démonstration Thiès,524.38,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Pomme de terre,Thiès,Marché de démonstration Thiès,527.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Pomme de terre,Thiès,Marché de démonstration Thiès,530.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Pomme de terre,Thiès,Marché de démonstration Thiès,537.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Pomme de terre,Thiès,Marché de démonstration Thiès,527.65,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Pomme de terre,Thiès,Marché de démonstration Thiès,536.97,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Pomme de terre,Thiès,Marché de démonstration Thiès,534.54,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Pomme de terre,Thiès,Marché de démonstration Thiès,534.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Pomme de terre,Thiès,Marché de démonstration Thiès,533.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Pomme de terre,Thiès,Marché de démonstration Thiès,539.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Pomme de terre,Thiès,Marché de démonstration Thiès,531.71,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Pomme de terre,Thiès,Marché de démonstration Thiès,529.42,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Pomme de terre,Thiès,Marché de démonstration Thiès,542.09,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Pomme de terre,Thiès,Marché de démonstration Thiès,537.39,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Pomme de terre,Thiès,Marché de démonstration Thiès,534.97,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Pomme de terre,Thiès,Marché de démonstration Thiès,538.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Pomme de terre,Thiès,Marché de démonstration Thiès,531.56,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Pomme de terre,Thiès,Marché de démonstration Thiès,530.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Pomme de terre,Thiès,Marché de démonstration Thiès,533.64,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Pomme de terre,Thiès,Marché de démonstration Thiès,543.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-01,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,511.31,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-02,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,524.8,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-03,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,517.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-04,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,511.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-05,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,527.13,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-06,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,520.6,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-07,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,531.13,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-08,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,523.75,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-09,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,518.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-10,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,532.06,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-11,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,537.17,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-12,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,528.49,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-13,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,530.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-14,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,526.99,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-15,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,538.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-16,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,546.83,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-17,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,547.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-18,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,546.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-19,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,551.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-20,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,546.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-21,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,550.85,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-22,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,545.82,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-23,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,538.53,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-24,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,540.37,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-25,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,539.16,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-26,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,552.0,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-27,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,536.31,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-28,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,546.23,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-29,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,541.69,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-30,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,549.35,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-07-31,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,543.07,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-01,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,542.87,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-02,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,530.78,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-03,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,533.53,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-04,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,545.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-05,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,537.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-06,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,532.05,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-07,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,534.84,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-08,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,533.81,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-09,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,516.7,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-10,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,532.57,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-11,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,523.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-12,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,518.08,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-13,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,520.79,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-14,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,512.29,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-15,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,521.32,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-16,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,517.88,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-17,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,513.77,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-18,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,503.5,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-19,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,518.28,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-20,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,506.92,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-21,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,516.03,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-22,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,498.71,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-23,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,500.1,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-24,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,500.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-25,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,501.68,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-26,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,505.59,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-27,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,514.29,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-28,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,508.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-29,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,521.52,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-30,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,522.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-08-31,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,522.98,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-01,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,513.01,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-02,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,522.77,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-03,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,523.27,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-04,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,517.04,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-05,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,522.94,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-06,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,529.95,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-07,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,531.75,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-08,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,527.48,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-09,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,545.32,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-10,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,531.9,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-11,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,544.24,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-12,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,547.62,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-13,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,547.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-14,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,553.97,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-15,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,550.12,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-16,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,556.91,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-17,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,542.34,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-18,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,543.85,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-19,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,556.74,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-20,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,556.19,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-21,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,558.22,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-22,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,560.86,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-23,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,553.96,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-24,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,558.32,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-25,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,555.2,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-26,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,557.3,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-27,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,549.89,kg,XOF,DEMO_SYNTHETIC,synthetic
+2026-09-28,Pomme de terre,Saint-Louis,Marché de démonstration Saint-Louis,562.41,kg,XOF,DEMO_SYNTHETIC,synthetic

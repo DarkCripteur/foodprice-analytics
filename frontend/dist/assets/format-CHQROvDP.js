@@ -1,0 +1,1 @@
+var e=e=>e==null?`—`:Number(e).toLocaleString(`fr-FR`,{maximumFractionDigits:2}),t=e=>new Intl.DateTimeFormat(`fr-FR`,{day:`2-digit`,month:`short`,year:`numeric`,timeZone:`UTC`}).format(new Date(`${e}T00:00:00Z`));export{e as n,t};
